@@ -21,9 +21,7 @@ leading to improved outcomes.
 Keywords: Cerebral palsy, movement behavior; wearable sensors; deep learning; monitoring
 
 
-------------- NETWORK ARCHITECTURE -------------
-
-## **Overview**
+# ------------- NETWORK ARCHITECTURE -------------
 
 The network is a deep convolutional neural network (CNN) designed for image classification tasks. It is characterized by its use of residual blocks, skip connections, and instance normalization to enhance the learning process. It is a custom architecture that combines elements and ideas from well-known and established networks such as ResNet, VGG and InceptionV3.
 
