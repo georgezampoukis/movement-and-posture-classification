@@ -21,8 +21,6 @@ leading to improved outcomes.
 Keywords: Cerebral palsy, movement behavior; wearable sensors; deep learning; monitoring
 
 
-
-
 ------------- NETWORK ARCHITECTURE -------------
 
 Overview
