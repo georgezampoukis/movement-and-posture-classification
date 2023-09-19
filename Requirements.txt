@@ -1,0 +1,5 @@
+colorama
+matplotlib
+numpy
+tqdm
+torch --index-url https://download.pytorch.org/whl/cu118
