@@ -69,3 +69,11 @@ Dataset
 
 To train the network, a custom dataset was created by timestamped scripted movements consisting of 10000 1-second samples. During this process, a python script was used that would indicate a range of movements to a performer, covering different label combinations every time so that a balanced and diverse dataset can be created. Since the indicated movements were timestamped in conjunction with the sensor recordings, we eliminated the need of manually annotating data, which allowed for a very dense dataset to be created in a very short amount of time. This automated approach of producing data also allowed for quick prototyping of ideas, since no time is wasted in manual annotation of data. Since the data that the sensors record is contained within a specific range (± 10) and is already represented as float32 values, no data normalization was applied.
 
+
+![network_schematics](https://github.com/georgezampoukis/movement-and-posture-classification/assets/87320215/ec7e8719-7716-4440-b001-190154135b82)
+
+
+![data_encoding2](https://github.com/georgezampoukis/movement-and-posture-classification/assets/87320215/e9c5d3b3-e8c8-4c1d-8c48-f5e1f9f9f6db)
+
+
+
